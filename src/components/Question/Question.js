@@ -42,7 +42,7 @@ const Question = ({
   const handlePrev=()=>{
     if(currQues==0)
       history.push("/");
-    else
+    else 
      setCurrQues(currQues-1);
   }
 
