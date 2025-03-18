@@ -29,12 +29,7 @@ The Quiz App is a web-based application built using React and Node.js that allow
    ```sh
    npm install
    ```
-4. Start the backend server:
-   ```sh
-   cd backend
-   node server.js
-   ```
-5. Start the frontend development server:
+4. Start the frontend development server:
    ```sh
    cd frontend
    npm start
